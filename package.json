@@ -1,0 +1,15 @@
+{
+  "name": "storm-desafio-fullstack-back-end",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luvicsoura/storm-desafio-fullstack-back-end.git",
+  "author": "Victor Oliveira <victoroliveira.dev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha src/**/*.test.js -w"
+  },
+  "devDependencies": {
+    "chai": "^4.3.0",
+    "mocha": "^8.3.0"
+  }
+}
